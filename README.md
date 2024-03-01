@@ -11,7 +11,7 @@ A gallery of sample apps based on the [`teal`](https://github.com/insightsengine
 
 ## Links to apps on `shinyapps.io`
 
-### Development version
+### Development Version
 
 - [basic-teal](https://genentech.shinyapps.io/NEST_basic-teal_stable/)
 - [exploratory](https://genentech.shinyapps.io/NEST_exploratory_stable/)
